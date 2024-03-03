@@ -30,7 +30,7 @@
         <org.walkerljl.toolkit.standard.version>1.0.0-SNAPSHOT</org.walkerljl.toolkit.standard.version>
         <org.walkerljl.toolkit.template.version>1.0.0-SNAPSHOT</org.walkerljl.toolkit.template.version>
         <org.walkerljl.cofiguration.version>1.0.0-SNAPSHOT</org.walkerljl.cofiguration.version>
-        <spring.version>4.3.1.RELEASE</spring.version>
+        <spring.version>5.2.22.RELEASE</spring.version>
         <cglib.version>2.2.2</cglib.version>
         <jetty.version>6.1.26</jetty.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
